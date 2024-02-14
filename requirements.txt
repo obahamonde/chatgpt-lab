@@ -1,0 +1,7 @@
+openai
+fastapi[all]
+uvicorn[standard]
+sse-starlette
+aioredis
+boto3
+ollama
